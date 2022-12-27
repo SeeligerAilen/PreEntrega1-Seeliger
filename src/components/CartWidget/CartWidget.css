@@ -1,0 +1,13 @@
+button {
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+
+.carrito-img {
+    width: 25px;
+}
+
+.carrito-p {
+    font-size: 20px;
+}

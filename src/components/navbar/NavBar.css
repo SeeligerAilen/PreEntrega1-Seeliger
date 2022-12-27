@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(32, 104, 127);
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.navbar {
+    outline: none;
+    border-style: none;
+    padding: 0 100px 10px 0;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.title {
+    color: #fff;
+}
